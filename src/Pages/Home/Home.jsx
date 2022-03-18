@@ -7,7 +7,7 @@ export const Home = () => {
   return (
     <>
       <Header />
-      <TitleFilter title={"Dashboard"} caption={"Desafio frontend"} />
+      <TitleFilter title={"Dashboard"} caption={"Desafio Técnico frontend"} />
       <Graphics />
     </>
   );

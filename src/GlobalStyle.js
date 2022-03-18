@@ -14,6 +14,11 @@ body{
     max-width: 100% ;
 }
 
+.ContainerApp{
+    max-width: 1444px ;
+    margin: 0 auto ;
+}
+
 `;
 
 export default GlobalStyle;

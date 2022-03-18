@@ -4,6 +4,7 @@ export const ContainerSection = styled.div`
   width: 100%;
   height: 9vh;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   padding: 0 28px;
@@ -11,6 +12,7 @@ export const ContainerSection = styled.div`
 `;
 
 export const Title = styled.h3`
+  width: 161px;
   color: #5d405c;
   font-family: Montserrat;
   font-weight: 700;
@@ -21,10 +23,11 @@ export const Title = styled.h3`
 
 export const Caption = styled.p`
   font-family: Montserrat;
-  width: 183px;
-  line-height: 17.07px;
+  width: 184px;
+  line-height: 17px ;
   font-size: 14px;
   font-weight: 500;
-  font-style: normal;
-  padding: 2px;
+  font-style: medium;  
+  color:#828282;
+  
 `;
