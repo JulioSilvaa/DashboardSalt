@@ -1,7 +1,7 @@
 import React from "react";
 import Chart from "react-apexcharts";
 
-export const GraphicScatter = () => {
+export default function GraphicScatter() {
   const options = {
     chart: {
       height: 350,
@@ -145,4 +145,4 @@ export const GraphicScatter = () => {
       />
     </>
   );
-};
+}
