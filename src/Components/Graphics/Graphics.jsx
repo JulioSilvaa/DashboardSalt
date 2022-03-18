@@ -8,8 +8,7 @@ import GraphicScatter from './../../Services/GraphicScatter/GraphicScatter';
 export default function Graphics() {
   return (
     <div
-      style={{
-        width: "vw",
+      style={{        
         display: "flex",
         justifyContent: "space-around",
         flexWrap: "wrap",
@@ -25,8 +24,9 @@ export default function Graphics() {
       >
         <div
           style={{
-            width: "600px",
+            maxWidth: "600px",
             height: "290px",
+            
           }}
         >
           <p>Barras</p>
@@ -42,7 +42,7 @@ export default function Graphics() {
           borderRadius: "10px",
         }}
       >
-        <div style={{ width: "600px", height: "290px" }}>
+        <div style={{ maxWidth: "600px", height: "290px" }}>
           <p>Barras</p>
           <p>Menu S</p>
           <GraphicScatter />
