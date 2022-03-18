@@ -1,8 +1,11 @@
 import React from "react";
-import { GraphicBar } from "../../Services/GraphicBar/GraphicBar";
-import { GraphicScatter } from "../../Services/GraphicScatter/GraphicScatter";
+import GraphicBar from './../../Services/GraphicBar/GraphicBar';
+import GraphicScatter from './../../Services/GraphicScatter/GraphicScatter';
 
-export const Graphics = () => {
+
+
+
+export default function Graphics() {
   return (
     <div
       style={{
@@ -47,4 +50,4 @@ export const Graphics = () => {
       </div>
     </div>
   );
-};
+}

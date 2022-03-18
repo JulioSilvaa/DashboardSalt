@@ -1,7 +1,7 @@
 import React from "react";
 import Chart from "react-apexcharts";
 
-export const GraphicBar = () => {
+export default function GraphicBar() {
   const xaxis = {
     categories: [
       "South Korea",
@@ -52,4 +52,4 @@ export const GraphicBar = () => {
       />
     </>
   );
-};
+}
