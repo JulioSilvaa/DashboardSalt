@@ -13,14 +13,37 @@ export const Graphics = () => {
       }}
     >
       <div
-        style={{ maxWidth: "600px", height: "600px", backgroundColor: "blue" }}
+        style={{
+          width: "680px",
+          height: "359px",
+          backgroundColor: "white",
+          borderRadius: "10px",
+        }}
       >
-        <GraphicBar />
+        <div
+          style={{
+            width: "600px",
+            height: "290px",
+          }}
+        >
+          <p>Barras</p>
+          <p>Menu S</p>
+          <GraphicBar />
+        </div>
       </div>
       <div
-        style={{ maxWidth: "600px", height: "600px", backgroundColor: "red" }}
+        style={{
+          width: "680px",
+          height: "359px",
+          backgroundColor: "white",
+          borderRadius: "10px",
+        }}
       >
-        <GraphicScatter />
+        <div style={{ width: "600px", height: "290px" }}>
+          <p>Barras</p>
+          <p>Menu S</p>
+          <GraphicScatter />
+        </div>
       </div>
     </div>
   );
