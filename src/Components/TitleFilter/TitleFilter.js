@@ -1,6 +1,6 @@
 import React from "react";
 import icon from "../../assets/IconFilter.svg";
-import { ContainerSection, Title, Caption } from "./Style";
+import { ContainerSection, Title, Caption, ContainerButton } from "./Style";
 
 export const TitleFilter = ({ title, caption }) => {
   return (
@@ -9,9 +9,9 @@ export const TitleFilter = ({ title, caption }) => {
         <Title>{title}</Title>
         <Caption>{caption}</Caption>
       </div>
-      <div>
+      <ContainerButton>
         <img src={icon} alt="Botão de filtrar" />
-      </div>
+      </ContainerButton>
     </ContainerSection>
   );
 };
