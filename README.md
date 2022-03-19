@@ -7,7 +7,6 @@ Fotos do projeto
 </h1>
 
 ![Captura de tela 2022-03-19 124207](https://user-images.githubusercontent.com/69260762/159129400-0dd13472-7570-4c20-8638-9cff952da51e.png)
-![Captura de tela 2022-03-19 124403](https://user-images.githubusercontent.com/69260762/159129412-48cae6ce-c39c-4d90-aeaa-3b5d82d799f7.png)
 ![Captura de tela 2022-03-19 124433](https://user-images.githubusercontent.com/69260762/159129416-89029c3d-6c37-4c66-8249-02b20a6c87d2.png)
 ![Captura de tela 2022-03-19 124458](https://user-images.githubusercontent.com/69260762/159129419-98a9b4ab-5573-4f54-98e3-44bcab3f86f3.png)
 
