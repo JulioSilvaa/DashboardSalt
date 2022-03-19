@@ -1,6 +1,6 @@
 # Dashboard-Salt
 
-O projeto **Dashboard-Salt** foi desenvolvido com o intuito replicar uma frontpage com graficos.
+O projeto **Dashboard-Salt** foi desenvolvido com o intuito de replicar uma frontpage com graficos.
 
 <h1 align="center">
 Fotos do projeto
