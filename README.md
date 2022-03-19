@@ -28,6 +28,7 @@ O desafio proposto pelo projeto era desenvolver uma FrontPage que exibiria dois 
 
 ## 🌎 Como acessar o projeto
 
+- [Link do Projeto Deploy - heroku](https://dashboardsalt.herokuapp.com/)
 - [Link do Projeto Deploy](https://dashboradsaltjulio.surge.sh/)
 
 ## 🚀 Tecnologias utilizadas
@@ -50,7 +51,7 @@ o projeto foi desenvolvido usando as seguintes tecnologias:
 git clone https://github.com/juliosan-bit/DashboardSalt
 
 # Entrar no diretório
-cd DashboardSalt
+cd dashboard-julio
 
 # Instalar as dependências
 npm install  
