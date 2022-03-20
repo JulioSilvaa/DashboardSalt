@@ -27,7 +27,7 @@ export default function Graphics() {
       <CardGraphics>
         <ViweGraphics2>
           <ContainerInfos>
-            <p>Barras</p>
+            <p>Scatter</p>
             <p>
               <img src={iconInfo} alt="icone de informações" />
             </p>
