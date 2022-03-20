@@ -27,7 +27,7 @@ O desafio proposto pelo projeto era desenvolver uma FrontPage que exibiria dois 
 
 ## 🌎 Como acessar o projeto
 
-- [Link do Projeto Deploy] - surge(https://dashboardsalt-julio.surge.sh/)
+- [Link do Projeto Deploy](https://dashboardsalt-julio.surge.sh/)
 
 ## 🚀 Tecnologias utilizadas
 
